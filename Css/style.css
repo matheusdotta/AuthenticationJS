@@ -1,0 +1,37 @@
+
+* {
+    box-sizing: border-box;
+    background-color: rgb(104, 71, 134);
+}
+
+body {
+    padding-top: 100px;
+}
+
+html,
+body {
+    height: 100%;
+}
+.container{
+    border: 2px solid rgba(94, 88, 88, 0.808);
+    border-radius: 30px;
+}
+
+h1 {
+    background-position: center;
+    background-color: rgba(21, 226, 226, 0.76);
+    position: relative;
+    text-align: center;
+}
+.h4 {
+    color: aliceblue;
+}
+input {
+    width: 200px;
+    border-top: 20px;
+}
+
+footer {
+    text-align: center;
+    top: 20px;
+}
